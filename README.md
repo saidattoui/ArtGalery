@@ -7,7 +7,7 @@ ArtS est une plateforme culturelle regroupant des galeries d'art, tableaux, expo
 ## Technologies Utilisées
 
 - **Langage :** Python
-- **Intelligence Artificielle :** IA Gemini
+- **Intelligence Artificielle :** IA Gemini , Hugging Face
 - **Base de Données :** MySQL
 - **API :** Utilisation d'API pour diverses fonctionnalités
 - **Gestion de Versions :** Git
@@ -15,10 +15,10 @@ ArtS est une plateforme culturelle regroupant des galeries d'art, tableaux, expo
 
 ## Fonctionnalités IA de Gemini Intégrées
 
-L'IA Gemini joue un rôle clé dans cinq fonctionnalités du projet :
+L'IA Gemini et Ia Hugging Face  joue un rôle clé dans cinq fonctionnalités du projet :
 
 - **Recommandation IA d'œuvres d'art :** Suggestions de tableaux et images similaires à partir d'une image donnée.
-- **Génération d'images :** Création d'images basées sur un texte fourni par l'utilisateur.
+- **Génération d'images :** Création d'images basées sur un texte fourni par l'utilisateur.(Hugging Face)
 - **Description IA d'images :** Analyse et description détaillée des images fournies.
 - **Chatbot intelligent :** Support interactif et informatif sur la plateforme.
 - **Générateur de programme d'ateliers :** Suggestions personnalisées d'ateliers culturels.
